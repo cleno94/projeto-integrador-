@@ -1,0 +1,55 @@
+.foto-perfil{
+    border-radius: 100%;
+    max-width: 200px;
+    border: 1px solid black;
+ 
+    
+    
+}
+
+body0{
+    background-color: #f7f7f7;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: nome;
+    box-sizing: border-box;
+    font-size: 100%;
+}
+/* container */
+.container {
+    max-width: 960px;
+    width: 95%;
+    padding: 5%;
+    margin: 10% auto;
+    border: 1px solid #111;
+}
+
+/*  header*/
+header h1 {
+    margin-bottom: 10px;
+}
+/*  header*/
+section h2 {
+    margin-bottom: 5px;
+
+}
+section p {
+    margin-bottom: 5px;
+}
+
+section li {
+    margin-bottom: 5px;
+
+}
+/*  header*/
+header .foto-perfil {
+    margin-bottom: 20px;
+}
+
+/*  header*/
+hr {
+    margin-bottom: 5px;
+}
